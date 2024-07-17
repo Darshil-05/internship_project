@@ -40,28 +40,49 @@ Additionally, I learned how to identify and fix bugs within the app and how to w
 ## Weekly Progress
 
 ### Week 1
-- [ ] Initial project understanding and codebase review.
+1. Started with an introduction to the company and participated in an introductory meeting.
+2. Added as a contributor to the GitHub repository and set up the project on my local computer.
+3. Explored project files and gained a thorough understanding of the project structure.
+4. Successfully optimized the project code.
 
 ### Week 2
-- [ ] Code optimization and familiarization with project requirements.
+1. Explored various Flutter widgets and their functionalities.
+2. Created a digital remote page for the project.
+3. Initiated work on a comprehensive music section for the app.
 
 ### Week 3
-- [ ] Development of the music page using youtube_explode_dart and audioplayers packages.
+1. Designed and conceptualized the layout for the music app.
+2. Explored essential packages like vibration and Spotify.
+3. Continued development of the complete music section for the app.
 
 ### Week 4
-- [ ] Implementation of the weather page using the Weather API.
+1. Completed the first version of the music page.
+2. Began integrating backend functionality into the music page.
+3. Successfully connected the backend using the Spotify package.
+4. Worked on connecting the backend and frontend seamlessly.
 
 ### Week 5
-- [ ] Creation of the TV remote interface with necessary animations and real-time updates.
+1. Overcame limitations of the Spotify package by incorporating the audioplayer package for music playback.
+2. Improved performance and fixed basic bugs in the app.
+3. Enhanced music playback functionality by integrating the youtube_explode_dart package.
 
 ### Week 6
-- [ ] Integration of Spotify functionalities and search features.
+1. Created a new search page with a simple and intuitive UI.
+2. Utilized the youtube_explode_dart package to implement backend search functionality for music.
+3. Integrated the search functionality with the frontend.
+4. Improved animations during slider changes.
+5. Successfully connected the music page and search page.
 
 ### Week 7
-- [ ] Bug fixing, server integration, and testing.
+1. Gained knowledge about REST APIs and the HTTP package in Flutter.
+2. Initiated a mini-project to learn about weather APIs.
+3. Explored weather API documentation and tested endpoints in Postman.
+4. Integrated the weather API into the weather app using the HTTP package.
 
 ### Week 8
-- [ ] Final optimizations, project review, and documentation.
+1. Solved issues related to the splash screen using the flutter_native_splash package.
+2. Learned different methods for designing splash screens.
+3. Corrected splash screen implementation using Android-specific files.
 
 ## Conclusion
 This internship was a tremendous learning experience. I enhanced my skills in Flutter and its packages, and I gained a deeper understanding of how to develop and manage large-scale projects. Working remotely, I also improved my ability to communicate and work within a team. Overall, this internship significantly contributed to my professional growth and prepared me for future challenges in the tech industry.
